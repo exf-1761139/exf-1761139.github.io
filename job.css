@@ -1,0 +1,44 @@
+body{
+	background-color:#f4f4f4;
+	color:#555;
+	font-family: 'Consolas';
+	font-size:16px;
+	line-height:1.6em;
+    margin:0;
+    margin: auto;
+    width: 80%;
+
+}
+.field {
+    font-family: 'Verdana';
+	font-size:14px;
+}
+h2{
+    background-color:coral;
+    color:#fff;
+}
+ul{
+    list-style-type: none;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #428bca;
+    border-color: #357ebd;
+}
+
+.btn {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 1.428571429;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
